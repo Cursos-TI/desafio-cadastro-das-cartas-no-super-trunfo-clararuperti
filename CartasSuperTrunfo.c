@@ -28,7 +28,7 @@ int main () {
    scanf("%f", pib1);
 
    printf("Entre com os dados da segunda carta. \n");
-   printf("Estado: \n"); //Entrar apenas com a inicial do estado.
+   printf("Estado: \n");
    scanf("%c", &estado2);
    printf("Nome da cidade: \n");
    scanf("%s", &cidade2);
